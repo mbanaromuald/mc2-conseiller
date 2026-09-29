@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-FCD116?logo=docker&logoColor=black)
 ![Groq](https://img.shields.io/badge/LLM-Llama%203.3%20via%20Groq-143223)
 
-**[Tester la démo en ligne](https://mc2-conseiller-hcflcbpvrwlalqymtwacck.streamlit.app/)**
+**[Tester la démo en ligne en cliquant ici !](https://mc2-conseiller-hcflcbpvrwlalqymtwacck.streamlit.app/)**
 
 *Projet conçu et développé par **Romuald MBANA MEDJO** dans le cadre de l'entretien chez la SAPA (Société Africaine de Participation).*
 
